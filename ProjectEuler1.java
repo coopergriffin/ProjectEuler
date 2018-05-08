@@ -1,4 +1,5 @@
 //Cooper Griffin
+//Created on April 15 2018
 
 public class ProjectEuler1{
 	public static void main(String[] args){
